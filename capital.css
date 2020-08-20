@@ -1,0 +1,1031 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 2;
+	--web-view-id: Web_1920__2;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__2;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__2 {
+	position: absolute;
+	width: 1920px;
+	height: 1279px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 2;
+	--web-view-id: Web_1920__2;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Lnea_58 {
+	fill: transparent;
+	stroke: rgba(183,177,164,1);
+	stroke-width: 1.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Lnea_58 {
+	overflow: visible;
+	position: absolute;
+	width: 797.452px;
+	height: 253.43px;
+	left: 245.5px;
+	top: 836.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lnea_56 {
+	fill: transparent;
+	stroke: rgba(183,177,164,1);
+	stroke-width: 1.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Lnea_56 {
+	overflow: visible;
+	position: absolute;
+	width: 151.003px;
+	height: 136.115px;
+	left: 133.5px;
+	top: 945.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Elipse_71 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(183,177,164,1);
+	stroke-width: 1.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Elipse_71 {
+	position: absolute;
+	overflow: visible;
+	width: 36.128px;
+	height: 36.128px;
+	left: 1200.77px;
+	top: 1211.489px;
+}
+#Lnea_21 {
+	fill: transparent;
+	stroke: rgba(183,177,164,1);
+	stroke-width: 1.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Lnea_21 {
+	overflow: visible;
+	position: absolute;
+	width: 230.408px;
+	height: 66.443px;
+	left: 354.5px;
+	top: 567.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lnea_59 {
+	fill: transparent;
+	stroke: rgba(183,177,164,1);
+	stroke-width: 1.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Lnea_59 {
+	overflow: visible;
+	position: absolute;
+	width: 129.444px;
+	height: 41.433px;
+	left: 913.5px;
+	top: 727.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lnea_60 {
+	fill: transparent;
+	stroke: rgba(183,177,164,1);
+	stroke-width: 1.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Lnea_60 {
+	overflow: visible;
+	position: absolute;
+	width: 193.485px;
+	height: 67.419px;
+	left: 1124.5px;
+	top: 701.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lnea_67 {
+	fill: transparent;
+	stroke: rgba(183,177,164,1);
+	stroke-width: 1.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Lnea_67 {
+	overflow: visible;
+	position: absolute;
+	width: 210.176px;
+	height: 264.931px;
+	left: 1711.5px;
+	top: 319.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lnea_61 {
+	fill: transparent;
+	stroke: rgba(183,177,164,1);
+	stroke-width: 1.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Lnea_61 {
+	overflow: visible;
+	position: absolute;
+	width: 116.329px;
+	height: 220.695px;
+	left: 1613.5px;
+	top: 931.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lnea_66 {
+	fill: transparent;
+	stroke: rgba(183,177,164,1);
+	stroke-width: 1.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Lnea_66 {
+	overflow: visible;
+	position: absolute;
+	width: 476.163px;
+	height: 53.491px;
+	left: 1235.5px;
+	top: 1176.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lnea_62 {
+	fill: transparent;
+	stroke: rgba(183,177,164,1);
+	stroke-width: 1.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Lnea_62 {
+	overflow: visible;
+	position: absolute;
+	width: 225.101px;
+	height: 243.019px;
+	left: 1124.5px;
+	top: 824.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lnea_65 {
+	fill: transparent;
+	stroke: rgba(183,177,164,1);
+	stroke-width: 1.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Lnea_65 {
+	overflow: visible;
+	position: absolute;
+	width: 144.56px;
+	height: 59.392px;
+	left: 1056.5px;
+	top: 1164.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#LOGO_BLANC {
+	position: absolute;
+	width: 1016.456px;
+	height: 237.114px;
+	left: 549px;
+	top: 82.614px;
+	overflow: visible;
+}
+#GRAPHISME__TEXTE {
+	position: absolute;
+	width: 1016.456px;
+	height: 237.114px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#TEXTE {
+	position: absolute;
+	width: 677.106px;
+	height: 157.702px;
+	left: 339.35px;
+	top: 39.707px;
+	overflow: visible;
+}
+#Trazado_1 {
+	fill: rgba(112,112,112,1);
+}
+.Trazado_1 {
+	overflow: visible;
+	position: absolute;
+	width: 60.548px;
+	height: 76.256px;
+	left: 0px;
+	top: 0.646px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_2 {
+	fill: rgba(112,112,112,1);
+}
+.Trazado_2 {
+	overflow: visible;
+	position: absolute;
+	width: 74.432px;
+	height: 77.333px;
+	left: 81.478px;
+	top: 0.109px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_3 {
+	fill: rgba(112,112,112,1);
+}
+.Trazado_3 {
+	overflow: visible;
+	position: absolute;
+	width: 67.008px;
+	height: 76.041px;
+	left: 165.518px;
+	top: 1.185px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_4 {
+	fill: rgba(112,112,112,1);
+}
+.Trazado_4 {
+	overflow: visible;
+	position: absolute;
+	width: 67.008px;
+	height: 76.041px;
+	left: 234.227px;
+	top: 0.43px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_5 {
+	fill: rgba(112,112,112,1);
+}
+.Trazado_5 {
+	overflow: visible;
+	position: absolute;
+	width: 53.031px;
+	height: 77.657px;
+	left: 315.694px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_6 {
+	fill: rgba(112,112,112,1);
+}
+.Trazado_6 {
+	overflow: visible;
+	position: absolute;
+	width: 54.42px;
+	height: 75.287px;
+	left: 382.398px;
+	top: 1.185px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_7 {
+	fill: rgba(112,112,112,1);
+}
+.Trazado_7 {
+	overflow: visible;
+	position: absolute;
+	width: 74.426px;
+	height: 77.333px;
+	left: 447.389px;
+	top: 0.109px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_8 {
+	fill: rgba(112,112,112,1);
+}
+.Trazado_8 {
+	overflow: visible;
+	position: absolute;
+	width: 60.548px;
+	height: 76.256px;
+	left: 542.803px;
+	top: 0.646px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_9 {
+	fill: rgba(112,112,112,1);
+}
+.Trazado_9 {
+	overflow: visible;
+	position: absolute;
+	width: 48.719px;
+	height: 75.287px;
+	left: 628.387px;
+	top: 1.185px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_10 {
+	fill: rgba(112,112,112,1);
+}
+.Trazado_10 {
+	overflow: visible;
+	position: absolute;
+	width: 38.561px;
+	height: 46.495px;
+	left: 203.111px;
+	top: 111.207px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_11 {
+	fill: rgba(112,112,112,1);
+}
+.Trazado_11 {
+	overflow: visible;
+	position: absolute;
+	width: 40.172px;
+	height: 45.59px;
+	left: 250.015px;
+	top: 111.531px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_12 {
+	fill: rgba(112,112,112,1);
+}
+.Trazado_12 {
+	overflow: visible;
+	position: absolute;
+	width: 32.112px;
+	height: 45.139px;
+	left: 300.82px;
+	top: 111.981px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_13 {
+	fill: rgba(112,112,112,1);
+}
+.Trazado_13 {
+	overflow: visible;
+	position: absolute;
+	width: 5.482px;
+	height: 45.139px;
+	left: 344.53px;
+	top: 111.981px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_14 {
+	fill: rgba(112,112,112,1);
+}
+.Trazado_14 {
+	overflow: visible;
+	position: absolute;
+	width: 32.626px;
+	height: 45.139px;
+	left: 361.017px;
+	top: 111.981px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_15 {
+	fill: rgba(112,112,112,1);
+}
+.Trazado_15 {
+	overflow: visible;
+	position: absolute;
+	width: 40.172px;
+	height: 45.59px;
+	left: 395.634px;
+	top: 111.531px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_16 {
+	fill: rgba(112,112,112,1);
+}
+.Trazado_16 {
+	overflow: visible;
+	position: absolute;
+	width: 23.219px;
+	height: 45.139px;
+	left: 446.433px;
+	top: 111.981px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#GRAPHISME {
+	position: absolute;
+	width: 201.977px;
+	height: 237.114px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Elipse_1 {
+	fill: rgba(112,112,112,1);
+}
+.Elipse_1 {
+	position: absolute;
+	overflow: visible;
+	width: 47.443px;
+	height: 47.443px;
+	left: 154.534px;
+	top: 0px;
+}
+#Trazado_17 {
+	fill: rgba(112,112,112,1);
+}
+.Trazado_17 {
+	overflow: visible;
+	position: absolute;
+	width: 183.242px;
+	height: 237.114px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#We_are_an_independent_Single_F {
+	left: 549px;
+	top: 357.56px;
+	position: absolute;
+	overflow: visible;
+	width: 1080px;
+	height: 94px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(112,112,112,1);
+}
+#Elipse_69 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(183,177,164,1);
+	stroke-width: 1.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Elipse_69 {
+	position: absolute;
+	overflow: visible;
+	width: 83.547px;
+	height: 83.547px;
+	left: 1042.5px;
+	top: 737.5px;
+}
+#Grupo_117 {
+	position: absolute;
+	width: 467.321px;
+	height: 996.215px;
+	left: 2.226px;
+	top: 17.35px;
+	overflow: visible;
+}
+#Elipse_29 {
+	fill: transparent;
+	stroke: rgba(183,177,164,1);
+	stroke-width: 1.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Elipse_29 {
+	position: absolute;
+	overflow: visible;
+	width: 52.012px;
+	height: 52.012px;
+	left: 40.753px;
+	top: 0px;
+}
+#Grupo_115 {
+	position: absolute;
+	width: 352.758px;
+	height: 963.393px;
+	left: 0px;
+	top: 32.822px;
+	overflow: visible;
+}
+#Trazado_31 {
+	fill: transparent;
+	stroke: rgba(138,148,144,1);
+	stroke-width: 1.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Trazado_31 {
+	overflow: visible;
+	position: absolute;
+	width: 291.901px;
+	height: 820.718px;
+	left: 0px;
+	top: 75.215px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_32 {
+	fill: transparent;
+	stroke: rgba(138,148,144,1);
+	stroke-width: 1.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Trazado_32 {
+	overflow: visible;
+	position: absolute;
+	width: 179.927px;
+	height: 588.82px;
+	left: 0px;
+	top: 195.131px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_33 {
+	fill: transparent;
+	stroke: rgba(138,148,144,1);
+	stroke-width: 1.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Trazado_33 {
+	overflow: visible;
+	position: absolute;
+	width: 326.446px;
+	height: 906.993px;
+	left: 0px;
+	top: 29.428px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_34 {
+	fill: transparent;
+	stroke: rgba(138,148,144,1);
+	stroke-width: 1.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Trazado_34 {
+	overflow: visible;
+	position: absolute;
+	width: 353.79px;
+	height: 964.797px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lnea_68 {
+	fill: transparent;
+	stroke: rgba(183,177,164,1);
+	stroke-width: 1.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Lnea_68 {
+	overflow: visible;
+	position: absolute;
+	width: 166.715px;
+	height: 91.319px;
+	left: 226.274px;
+	top: 94.15px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Elipse_72 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(183,177,164,1);
+	stroke-width: 1.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Elipse_72 {
+	position: absolute;
+	overflow: visible;
+	width: 83.547px;
+	height: 83.547px;
+	left: 385.274px;
+	top: 33.15px;
+}
+#Elipse_70 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(183,177,164,1);
+	stroke-width: 1.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Elipse_70 {
+	position: absolute;
+	overflow: visible;
+	width: 43.547px;
+	height: 43.547px;
+	left: 1189.5px;
+	top: 946.5px;
+}
+#Elipse_74 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(183,177,164,1);
+	stroke-width: 1.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Elipse_74 {
+	position: absolute;
+	overflow: visible;
+	width: 464px;
+	height: 464px;
+	left: 479px;
+	top: 482px;
+}
+#Elipse_80 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(183,177,164,1);
+	stroke-width: 1.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Elipse_80 {
+	position: absolute;
+	overflow: visible;
+	width: 464px;
+	height: 464px;
+	left: 1318px;
+	top: 482px;
+}
+#click {
+	position: absolute;
+	width: 62.679px;
+	height: 101.621px;
+	left: 680px;
+	top: 710px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Mesa_de_trabajo___1.html;
+	cursor: pointer;
+}
+#Trazado_280 {
+	fill: rgba(183,177,164,1);
+}
+.Trazado_280 {
+	overflow: visible;
+	position: absolute;
+	width: 3.387px;
+	height: 8.468px;
+	left: 50.811px;
+	top: 62.667px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_281 {
+	fill: rgba(183,177,164,1);
+}
+.Trazado_281 {
+	overflow: visible;
+	position: absolute;
+	width: 3.387px;
+	height: 10.162px;
+	left: 42.342px;
+	top: 59.279px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_282 {
+	fill: rgba(183,177,164,1);
+}
+.Trazado_282 {
+	overflow: visible;
+	position: absolute;
+	width: 3.401px;
+	height: 15.243px;
+	left: 33.86px;
+	top: 54.198px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_283 {
+	fill: rgba(183,177,164,1);
+}
+.Trazado_283 {
+	overflow: visible;
+	position: absolute;
+	width: 49.151px;
+	height: 67.747px;
+	left: 13.528px;
+	top: 33.874px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_284 {
+	fill: rgba(183,177,164,1);
+}
+.Trazado_284 {
+	overflow: visible;
+	position: absolute;
+	width: 60.96px;
+	height: 30.487px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_285 {
+	fill: rgba(183,177,164,1);
+}
+.Trazado_285 {
+	overflow: visible;
+	position: absolute;
+	width: 25.404px;
+	height: 44.036px;
+	left: 35.556px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_286 {
+	fill: rgba(183,177,164,1);
+}
+.Trazado_286 {
+	overflow: visible;
+	position: absolute;
+	width: 25.404px;
+	height: 44.036px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_287 {
+	fill: rgba(183,177,164,1);
+}
+.Trazado_287 {
+	overflow: visible;
+	position: absolute;
+	width: 60.96px;
+	height: 44.036px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#contactnovastonecapitalcom {
+	left: 519.5px;
+	top: 1088px;
+	position: absolute;
+	overflow: visible;
+	width: 455px;
+	height: 45px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(96,91,85,1);
+	cursor: pointer;
+}
+#Elipse_62 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(183,177,164,1);
+	stroke-width: 1.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Elipse_62 {
+	position: absolute;
+	overflow: visible;
+	width: 159.733px;
+	height: 159.733px;
+	left: 262px;
+	top: 1055.5px;
+}
+#Elipse_73 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(183,177,164,1);
+	stroke-width: 1.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Elipse_73 {
+	position: absolute;
+	overflow: visible;
+	width: 159.733px;
+	height: 159.733px;
+	left: 1009.5px;
+	top: 1055.5px;
+}
+#Elipse_63 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(183,177,164,1);
+	stroke-width: 1.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Elipse_63 {
+	position: absolute;
+	overflow: visible;
+	width: 83.547px;
+	height: 83.547px;
+	left: 301px;
+	top: 1093.5px;
+}
+#outline {
+	transform: matrix(1,0,0,1,393.5,1071.2934) rotate(32deg);
+	transform-origin: center;
+	position: absolute;
+	width: 102.708px;
+	height: 102.707px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Trazado_299 {
+	fill: rgba(233,228,219,1);
+}
+.Trazado_299 {
+	overflow: visible;
+	position: absolute;
+	width: 18.871px;
+	height: 18.871px;
+	left: 0px;
+	top: 75.487px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Elipse_46 {
+	fill: rgba(233,228,219,1);
+}
+.Elipse_46 {
+	position: absolute;
+	overflow: visible;
+	width: 4.718px;
+	height: 4.718px;
+	left: 18.864px;
+	top: 79.843px;
+}
+#Elipse_47 {
+	fill: rgba(233,228,219,1);
+}
+.Elipse_47 {
+	position: absolute;
+	overflow: visible;
+	width: 4.718px;
+	height: 4.718px;
+	left: 25.535px;
+	top: 78.302px;
+}
+#Trazado_300 {
+	fill: rgba(233,228,219,1);
+}
+.Trazado_300 {
+	overflow: visible;
+	position: absolute;
+	width: 4.718px;
+	height: 4.718px;
+	left: 32.207px;
+	top: 76.762px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_301 {
+	fill: rgba(233,228,219,1);
+}
+.Trazado_301 {
+	overflow: visible;
+	position: absolute;
+	width: 4.718px;
+	height: 4.718px;
+	left: 38.878px;
+	top: 75.221px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_302 {
+	fill: rgba(233,228,219,1);
+}
+.Trazado_302 {
+	overflow: visible;
+	position: absolute;
+	width: 116.084px;
+	height: 112.137px;
+	left: 25.444px;
+	top: 7.257px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Haldenstrasse_5__PO_Box_1359_6 {
+	left: 1179.5px;
+	top: 1088px;
+	position: absolute;
+	overflow: visible;
+	width: 479px;
+	height: 81px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(96,91,85,1);
+}
+#Trazado_285_cf {
+	fill: rgba(233,228,219,1);
+}
+.Trazado_285_cf {
+	overflow: visible;
+	position: absolute;
+	width: 75.63px;
+	height: 75.445px;
+	left: 1050px;
+	top: 1097px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Elipse_66 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(183,177,164,1);
+	stroke-width: 1.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Elipse_66 {
+	position: absolute;
+	overflow: visible;
+	width: 71.128px;
+	height: 71.128px;
+	left: 1711.77px;
+	top: 1141.489px;
+}
+#For_investment_opportunities__ {
+	left: 558px;
+	top: 558px;
+	position: absolute;
+	overflow: visible;
+	width: 308px;
+	height: 127px;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(96,91,85,1);
+}
+#For_more_information__about_NC {
+	left: 1371px;
+	top: 569px;
+	position: absolute;
+	overflow: visible;
+	width: 342px;
+	height: 291px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Mesa_de_trabajo___2.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(96,91,85,1);
+}
