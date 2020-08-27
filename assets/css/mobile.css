@@ -551,12 +551,12 @@
 	top: 0px;
 }
 #For_more_information__about_NC {
-	left: 22px;
-	top: 40px;
+	left: 12px;
+	top: 30px;
 	position: absolute;
 	overflow: hidden;
-	width: 104px;
-	height: 67px;
+	width: 124px;
+	height: 104px;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
 	--web-action-target: Mesa_de_trabajo___2.html;
@@ -565,7 +565,7 @@
 	font-family: Helvetica Neue;
 	font-style: normal;
 	font-weight: bold;
-	font-size: 12px;
+	font-size: 10px;
 	color: rgba(96,91,85,1);
 }
 #Grupo_121 {
@@ -687,8 +687,8 @@
 	position: absolute;
 	width: 39.765px;
 	height: 38.413px;
-	left: 8.741px;
-	top: 5.462px;
+	left: 11.741px;
+	top: -5px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #contactnovastonecapitalcom {
